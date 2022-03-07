@@ -1,9 +1,16 @@
 
 # HTML (Coding Ninjas)
 
-A brief description of what this project does and who it's forHTML document is a text document saved with the extension .html or .htm that
+HTML document is a text document saved with the extension .html or .htm that
 contains texts and some tags written between "< >" which give the instructions needed
-to configure the web page
+to configure the web page.
+
+
+
+
+
+-----------------------------------------------------------------
+
 
 
 
@@ -24,4 +31,7 @@ to configure the web page
 - Major Project I.
 
 - Major Project II.
+
+
+---------------------------------------------------------------------------------------
 
