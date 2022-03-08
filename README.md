@@ -5,7 +5,11 @@ HTML document is a text document saved with the extension .html or .htm that
 contains texts and some tags written between "< >" which give the instructions needed
 to configure the web page.
 
+## Authors
 
+- [Sunami Dasgupta](https://www.github.com/Sunami09)
+
+- [Soham Das](https://github.com/fatemaker254)
 
 
 
@@ -135,3 +139,39 @@ like <br/> instead of simply <br>.
 **Points to Remember**
 - In HTML, tags that include both start and end tag are called - container tags.
 - Tags are case insensetive.
+
+**Images**
+
+With HTML you can also display images in a document. In HTML, images are defined
+with the `<img>` tag. `<img>` tag is a self-closing tag which means that it doesn't contain the closing
+tag.
+
+- Source Code:
+```
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>My Image</title>
+    </head>
+
+    <body>
+        <img src="mypic.jfif" alt="My Image">
+    </body>
+</html>
+
+```
+- Output:
+
+![Capture](https://user-images.githubusercontent.com/66564001/157243695-09445c9b-188e-4ce0-8109-d0e75ed88e78.PNG)
+
+
+Here the `src` attribute tells the browser where to find the image or where is the image located. The `alt` attribute act as a safety net, if the browser can't find the image then it will show the given text.
+
+We can also adjust height and width of the image using `height` and `width` attribute.\
+Example: `<img src="images/logo.png" alt="Coding Ninjas image" height="500" width="500">`
+
+Instead of assigning a image address located in our system we can also give the web adress of the image.\
+Example: `<img src = “https://files.codingninjas.in/0000000000000723.jpg”>`
+
+
