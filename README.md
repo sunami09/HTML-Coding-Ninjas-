@@ -1,6 +1,7 @@
 
 # HTML (Coding Ninjas)
 
+
 HTML document is a text document saved with the extension .html or .htm that
 contains texts and some tags written between "< >" which give the instructions needed
 to configure the web page.
